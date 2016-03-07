@@ -1,0 +1,8 @@
+[package]
+name = "draco_utils"
+version = "0.1.0"
+authors = ["Tyrel Richey <tyrel@tycorp.org>"]
+
+[dependencies]
+rustc-serialize = "*"
+bson = "*"
